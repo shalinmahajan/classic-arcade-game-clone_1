@@ -1,0 +1,23 @@
+***********************************************************************************************
+				Welcome to game -Frogger!
+***********************************************************************************************
+
+
+Game:	 Player has to reach the water bed by avoiding the bugs to earn a new  life
+	 and collect gems to score.
+             	 Beware of the Bugs coming from the left of screen . 
+	On collision with bugs, player will come to default position and score will become
+	 zero, and one life will be reduced.
+	Once life level reaches below 0, game Ends
+
+Special	Gems will appear at random positions and will change color at different scores.
+
+Instructions
+to Play	Please press ok on main screen to start game.
+	Please Enter your(Player) name
+	use Arrow keys to move the player on the screen.
+
+
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				       Enjoy the Game!
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	
